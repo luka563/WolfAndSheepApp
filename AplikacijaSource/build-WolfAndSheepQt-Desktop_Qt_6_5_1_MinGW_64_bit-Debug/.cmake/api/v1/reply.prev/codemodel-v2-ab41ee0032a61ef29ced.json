@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-11b3bfed848019e29dd3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WolfAndSheepQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WolfAndSheepQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WolfAndSheepQt-Debug-80fa8b5fcdbea89c10ae.json",
+					"name" : "WolfAndSheepQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WolfAndSheepQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WolfAndSheepQt_autogen-Debug-22319dca9ee9a89c44c6.json",
+					"name" : "WolfAndSheepQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "WolfAndSheepQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WolfAndSheepQt_autogen_timestamp_deps-Debug-3f180bb01d2de4d75157.json",
+					"name" : "WolfAndSheepQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/luka/Documents/build-WolfAndSheepQt-Desktop_Qt_6_5_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/luka/Documents/WolfAndSheepQt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
